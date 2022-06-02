@@ -1,0 +1,30 @@
+{
+  "name": "simple-cookies-examples-expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cliffordfajardo/simple-cookies-examples-expressjs.git"
+  },
+  "author": "clifford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cliffordfajardo/simple-cookies-examples-expressjs/issues"
+  },
+  "homepage": "https://github.com/cliffordfajardo/simple-cookies-examples-expressjs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "volta": {
+    "node": "16.7.0",
+    "yarn": "1.22.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
